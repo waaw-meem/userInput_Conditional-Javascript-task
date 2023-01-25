@@ -1,0 +1,10 @@
+table {
+    width: 500px;
+    border: 2px solid dodgerblue;
+    background: #9ee1ff;
+}
+
+tr {
+    text-align: center;
+}
+
